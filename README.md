@@ -3,7 +3,10 @@
 First, read in the SMS Spam Collection data. Make two lists:
 
 a) A list that contains the category of the SMS (ham or spam),
-b) A list that contains the text of the SMS. Try to put it into all lowercase and filter out punctuation marks.
+
+b) A list that contains the text of the SMS. 
+
+Try to put it into all lowercase and filter out punctuation marks.
 
 Split the data into a train and a test dataset.
 
